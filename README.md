@@ -10,3 +10,6 @@ npm install -S afeiship/next-blink-title --registry=https://registry.npm.taobao.
 ```js
 //DOCS here!
 ```
+
+## resources
+- https://www.pluralsight.com/guides/token-based-authentication-with-ruby-on-rails-5-api

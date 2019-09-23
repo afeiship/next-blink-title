@@ -1,0 +1,28 @@
+{
+  "name": "next-blink-title",
+  "version": "0.0.1",
+  "description": "nextBoilerplatePackageDescription",
+  "main": "dist/next-blink-title.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-blink-title",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
